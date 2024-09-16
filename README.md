@@ -1,0 +1,2 @@
+# GoC Data utilities
+- goc-org-variants: This is a list of all the english and french names of departments and agencies matched to a unique numeric ID that can be found on the Open Government Inventory of Federal Organizations and Interests (https://open.canada.ca/data/en/dataset/a35cf382-690c-4221-a971-cf0fd189a46f/resource/45069fe9-abe3-437f-97dd-3f64958bfa85). It allows consistent matching of departments across different datasets and naming conventions.
