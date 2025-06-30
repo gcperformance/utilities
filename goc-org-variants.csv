@@ -257,6 +257,7 @@ Canadian Northern Economic Development,86
 Canadian Northern Economic Development Agency,86
 Canadian Northern Economic Development Agency | Agence canadienne de développement économique du Nord,86
 CanNor,86
+cannor,86
 /Government of Canada - Gouvernement du Canada/Canadian Nuclear Safety Commission - Commission canadienne de sûreté nucléaire,87
 Canadian Nuclear Safety Commission,87
 Canadian Nuclear Safety Commission - Commission canadienne de sûreté nucléaire,87
@@ -279,6 +280,7 @@ Canadian Radio-television and Telecommunications Commission,93
 Canadian Radio-television and Telecommunications Commission | Conseil de la radiodiffusion et des télécommunications canadiennes,93
 Conseil de la radiodiffusion et des télécommunications canadiennes,93
 CRTC,93
+crtc,93
 /Government of Canada - Gouvernement du Canada/Canadian Security Intelligence Service - Service CA du renseignement de sécurité,94
 Canadian Security Intelligence Service,94
 Canadian Security Intelligence Service - Service CA du renseignement de sécurité,94
@@ -392,8 +394,10 @@ Ministère du Patrimoine canadien,122
 Patrimoine canadien,122
 Patrimoine canadien (Ministère du),122
 PCH,122
+pch,122
 "/Government of Canada - Gouvernement du Canada/Immigration, Refugees & Citizenship CA - Immigration, Réfugiés & Citoyenneté CA",123
 CIC,123
+cic,123
 Citizenship and Immigration,123
 Citizenship and Immigration (Department of),123
 Citoyenneté et de l'immigration (Ministère de la),123
@@ -415,6 +419,7 @@ Department of Finance Canada,124
 Department of Finance Canada - Ministère des Finances Canada,124
 Department of Finance Canada | Ministère des Finances Canada,124
 FIN,124
+fin,124
 Finance,124
 Finance (Department of),124
 Finance Canada,124
@@ -504,6 +509,7 @@ Relations Couronne-Autochtones et des Affaires du Nord (Ministère des),129
 Department of Industry,130
 "Department of Innovation, Science and Economic Development",130
 IC,130
+ic,130
 Industrie (Ministère de l'),130
 Industry,130
 Industry (Department of),130
@@ -523,6 +529,7 @@ Department of Justice Canada,132
 Department of Justice Canada - Ministère de la Justice Canada,132
 Department of Justice Canada | Ministère de la Justice Canada,132
 JUS,132
+jus,132
 Justice,132
 Justice (Department of),132
 Justice (Ministère de la),132
@@ -587,6 +594,7 @@ Travaux publics et des Services gouvernementaux (Ministère des),136
 Department of the Environment,137
 Department of the Environment and Climate Change,137
 EC,137
+ec,137
 ECCC,137
 Environment,137
 Environment (Department of the),137
@@ -600,6 +608,7 @@ Ministère de l'Environnement,137
 Department of Transport,138
 Ministère des Transports,138
 TC,138
+tc,138
 Transport,138
 Transport (Department of),138
 Transport Canada,138
@@ -630,6 +639,7 @@ Prairies Economic Dev. Canada - Dév. économique Canada pour les Prairies,140
 Prairies Economic Development Canada,140
 Prairies Economic Development Canada | Développement économique Canada pour les Prairies,140
 PrairiesCan,140
+prairiescan,140
 PrariesCan,140
 WD,140
 wd-deo,140
@@ -949,6 +959,7 @@ NPA,235
 Bureau de l'infrastructure du Canada,237
 "Housing, Infrastructure and Communities (Department of)",237
 INFC,237
+infc,237
 Infrastructure Canada,237
 Infrastructure Canada - Infrastructure Canada,237
 Infrastructure Canada | Infrastructure Canada,237
@@ -1030,6 +1041,7 @@ Status of Women Canada | Condition féminine Canada,246
 SWC,246
 swc-cfc,246
 WAGE,246
+wage,246
 Women and Gender Equality,246
 Women and Gender Equality CA - Femmes et Égalité des genres CA,246
 Women and Gender Equality Canada,246
@@ -1136,6 +1148,7 @@ Parks Canada | Parcs Canada,263
 Parks Canada Agency,263
 Parks Canada Agency (Department of),263
 PC,263
+pc,263
 Passeport Canada,264
 Passport Canada,264
 pptc,264
@@ -1322,6 +1335,7 @@ Conseil canadien des normes,312
 Standards Council of Canada,312
 /Government of Canada - Gouvernement du Canada/Statistics Canada - Statistique Canada,313
 STATCAN,313
+statcan,313
 Statistics Canada,313
 Statistics Canada - Statistique Canada,313
 Statistics Canada | Statistique Canada,313
@@ -1498,11 +1512,13 @@ Pacific Economic Development Canada,560
 Pacific Economic Development Canada | Développement économique Canada pour le Pacifique,560
 PacifiCAN,560
 PacificCan,560
+pacifican,560
 Agence fédérale de développement économique pour le Nord de l’Ontario,561
 Agence fédérale de développement économique pour le Nord de l'Ontario,561
 Federal Economic Development Agency for Northern Ontario,561
 Federal Economic Development Agency for Northern Ontario | Agence fédérale de développement économique pour le Nord de l’Ontario,561
 FEDNOR,561
+fednor,561
 VIA HFR - VIA TGF Inc.,562
 VIA HFR – VIA TGF Inc. (Société d'État),562
 VIA HFR – VIA TGF Inc. (Crown Corporation),562
