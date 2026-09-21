@@ -1,5 +1,16 @@
 ﻿service_id,service_en,service_fr,org_id,org_name_en,org_name_fr,date_added,date_transferred
+996,Aids to Navigation,Aides à la navigation,134,National Defence,Défense nationale,2026-09-21,
+1036,Marine Environmental and Hazards Response,Intervention en cas de dangers et d’incidents environnementaux maritimes,142,National Defence,Défense nationale,2026-09-21,
+1037,Icebreaking,Déglaçage,133,National Defence,Défense nationale,2026-09-21,
+1038,Provision of Distress and Safety Communications,Prestation de services de communication de détresse et de sécurité,136,National Defence,Défense nationale,2026-09-21,
+1041,Search and Rescue Coordination,Recherche et sauvetage Coordination,140,National Defence,Défense nationale,2026-09-21,
+1043,Search and Rescue Response,Recherche et sauvetage,141,National Defence,Défense nationale,2026-09-21,
+1044,Vessel Screening and Regulation of Vessel Traffic Movements,Contrôle des navires et réglementation des mouvements du trafic maritime,137,National Defence,Défense nationale,2026-09-21,
+1045,Waterways Management,Gestion des voies navigables,135,National Defence,Défense nationale,2026-09-21,
+4109,Canadian Coast Guard Marine Operations and Response Transfer Payment Program,Programme de paiements de transfert pour les opérations maritimes et les interventions de la Garde côtière canadienne,139,National Defence,Défense nationale,2026-09-21,
 4180,Tax Payer Relief Provisions,Dispositions d’allègement pour les contribuables,46,Canada Revenue Agency,Agence du revenu du Canada,2026-09-21,
+SRV03374,Monitoring and Compliance,Surveillance et conformité,143,National Defence,Défense nationale,2026-09-21,
+SRV03402,Canadian Coast Guard Auxiliary Contribution Fund,Fonds de contribution de la Garde côtière auxiliaire canadienne,138,National Defence,Défense nationale,2026-09-21,
 4173,AgriAssurance Program: Kosher and Halal Investment Component,Programme Agri-assurance : Volet Investissement casher et halal,1,Agriculture and Agri-Food Canada,Agriculture et Agroalimentaire Canada,2026-09-14,
 4174,Agricultural Clean Technology Program: Research and Innovation Stream - Accelerator,Programme des technologies propres en agriculture : Volet Recherche et innovation - Accélérateur,1,Agriculture and Agri-Food Canada,Agriculture et Agroalimentaire Canada,2026-09-14,
 4175,AgriMarketing Program: Kosher and Halal Investment Component,Programme Agri-marketing : Volet Investissement casher et halal,1,Agriculture and Agri-Food Canada,Agriculture et Agroalimentaire Canada,2026-09-14,
@@ -8,9 +19,9 @@
 4178,Kosher and Halal Investment Program,Programme d’investissement casher et halal,1,Agriculture and Agri-Food Canada,Agriculture et Agroalimentaire Canada,2026-09-14,
 4179,Program Payment Services Unit,Unité des services de paiement des programmes,1,Agriculture and Agri-Food Canada,Agriculture et Agroalimentaire Canada,2026-09-14,
 4172,EPS Operations,Opérations de la SAE,136,Public Services and Procurement Canada,Services publics et Approvisionnement Canada,2026-09-04,
-4171,Funding for Research and Technology Partnerships,Financement des partenariats en recherche et en technologie,230,Natural Sciences and Engineering Research Council of Canada,Conseil de recherches en sciences naturelles et en génie du Canada,2026-07-23,
-4170,Funding for Discovery Research,Financement de la recherche axée sur la découverte,230,Natural Sciences and Engineering Research Council of Canada,Conseil de recherches en sciences naturelles et en génie du Canada,2026-07-23,
 4169,Funding for Research Training and Talent Development ,Financement de la formation en recherche et du développement des talents,230,Natural Sciences and Engineering Research Council of Canada,Conseil de recherches en sciences naturelles et en génie du Canada,2026-07-23,
+4170,Funding for Discovery Research,Financement de la recherche axée sur la découverte,230,Natural Sciences and Engineering Research Council of Canada,Conseil de recherches en sciences naturelles et en génie du Canada,2026-07-23,
+4171,Funding for Research and Technology Partnerships,Financement des partenariats en recherche et en technologie,230,Natural Sciences and Engineering Research Council of Canada,Conseil de recherches en sciences naturelles et en génie du Canada,2026-07-23,
 4167,Canada Housing Infrastructure Fund (CHIF),Fonds canadien pour les infrastructures liées au logement (FCIL),237,"Housing, Infrastructure and Communities Canada","Logement, Infrastructure et Collectivités Canada",2026-07-02,
 4168,Canada Public Transit Fund (CPTF),Fonds pour le transport en commun du Canada (FTCC),237,"Housing, Infrastructure and Communities Canada","Logement, Infrastructure et Collectivités Canada",2026-07-02,
 4158,Customs Brokers Professional Examination,Examen de compétences professionnelles des courtiers en douane,26,Canada Border Services Agency,Agence des services frontaliers du Canada,2026-01-21,
@@ -580,7 +591,7 @@ SRV03365,Foreign military ship visit request management,Visite de navires milita
 SRV03368,Geographic Advice,Conseil géographique,126,Global Affairs Canada,Affaires mondiales Canada,2023-03-31,
 SRV03370,Global Security Reporting Program (GSRP),Programme des rapports sur la securité mondiale (PRSM),126,Global Affairs Canada,Affaires mondiales Canada,2023-03-31,
 SRV03371,Grants and Contributions - CanExport Community Investments,Subventions et contributions - CanExport investissements des communautés,126,Global Affairs Canada,Affaires mondiales Canada,2023-03-31,
-SRV03374,Compliance and Enforcement,Conformité et Application de la loi,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2023-03-31,
+SRV03374,Compliance and Enforcement,Conformité et Application de la loi,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2023-03-31,2026-09-21
 SRV03375,Fighting and Managing Wildfires in a Changing Climate,Combattre et gérer les feux de forêt dans un climat en changement,134,Natural Resources Canada,Ressources naturelles Canada,2023-03-31,
 SRV03376,Aquatic Invasive Species Prevention Fund,Fonds de prévention des espèces aquatiques envahissantes,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2023-03-31,
 SRV03377,Training And Exercising Participation Contribution Program,Programme de contribution pour la participation aux activités de formation et d'exercice,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2023-03-31,
@@ -606,7 +617,7 @@ SRV03396,Immigration National Security Screening,Filtrage de sécurité national
 SRV03399,Criminal Investigations,Enquêtes criminelles,26,Canada Border Services Agency,Agence des services frontaliers du Canada,2023-03-31,
 SRV03400,Waste Diversion of Office Supplies,Réacheminement des déchets de fournitures de bureau,136,Public Services and Procurement Canada,Services publics et Approvisionnement Canada,2023-03-31,
 SRV03401,Community Participation And Co-Development Contribution Program,Fonds de subventions et de contributions pour la participation communautaire et le codéveloppement,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2023-03-31,
-SRV03402,Canadian Coast Guard Auxiliary Contribution Program,Fonds de contribution de la Garde côtière auxiliaire canadienne,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2023-03-31,
+SRV03402,Canadian Coast Guard Auxiliary Contribution Program,Fonds de contribution de la Garde côtière auxiliaire canadienne,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2023-03-31,2026-09-21
 SRV03416,Whale Protection And Recovery Initiative Contribution Program,Programme de contribution de l’Initiative de protection et de rétablissement des baleines,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2023-03-31,
 SRV03417,Commonwealth Blue Charter Champion Contribution Program,Programme de contribution des champions de la Charte bleue du Commonwealth,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2023-03-31,
 SRV03418,Sustainable Fisheries Science Fund Contribution Program (SFSRSP),Programme de contributions du Fonds des sciences halieutiques durables,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2023-03-31,
@@ -1841,7 +1852,7 @@ Services de coordination, services-conseils et de formation",136,Public Services
 993,Transfer Payments to Support Research and Activities Relating to the Polar Region,Paiements de transfert pour soutenir la recherche et les activités qui ont trait aux régions polaires,552,Polar Knowledge Canada,Savoir polaire Canada,2019-03-31,
 994,Transfer Payments to Support the Advancement of Northern Science and Technology,Programme de paiements de transfert en appui aux progrès scientifiques et technologiques dans le Nord,552,Polar Knowledge Canada,Savoir polaire Canada,2019-03-31,
 995,Access to Information and Privacy,Accès à l'Information et Protection des Renseignements Personnels,313,Statistics Canada,Statistique Canada,2019-03-31,
-996,Aids to Navigation,Aides à la navigation,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
+996,Aids to Navigation,Aides à la navigation,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,2026-09-21
 997,British Columbia Aquaculture Regulatory Program,Programme de réglementation de l'aquaculture en Colombie-Britannique - Modifications administratives,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
 998,British Columbia Aquaculture Regulatory Program - Minor Technical Amendments,Programme de réglementation de l'aquaculture en Colombie-Britannique - Modifications techniques mineures,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
 999,British Columbia Aquaculture Regulatory Program - Applications for new licenses,Programme de réglementation de l'aquaculture en Colombie-Britannique - Nouveaux sites et modifications techniques majeures,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
@@ -1881,16 +1892,16 @@ Services de coordination, services-conseils et de formation",136,Public Services
 1033,Small Craft Harbours Class Contribution Program,Programme de contribution du MPO aux ports pour petits bateaux,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
 1034,Small Craft Harbours Divestiture Class Grant Program,Programme de dessaisissement des ports pour petits bateaux,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
 1035,Species at Risk Act Permits,Les permis de la Loi sur les espèces en péril,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
-1036,Marine Environmental and Hazards Response,Intervention dans le domaine de l'environnement marin et des risques,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
-1037,Icebreaking,Déglaçage,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
-1038,Provision of Distress and Safety Communications,Prestation de services de communication de détresse et de sécurité,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
+1036,Marine Environmental and Hazards Response,Intervention dans le domaine de l'environnement marin et des risques,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,2026-09-21
+1037,Icebreaking,Déglaçage,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,2026-09-21
+1038,Provision of Distress and Safety Communications,Prestation de services de communication de détresse et de sécurité,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,2026-09-21
 1039,Provision of Marine Information,Diffusion de renseignements maritimes,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
 1040,Provision of Radio Communications and Public Correspondence Service,Prestation de services de correspondance publique et de communications radio,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
-1041,Search and Rescue Coordination,Recherche et sauvetage Coordination,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
+1041,Search and Rescue Coordination,Recherche et sauvetage Coordination,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,2026-09-21
 1042,Orientation sessions for persons with a priority entitlement.,Droit de priorité: Séances d'orientation pour les bénéficiares d'un droit de priorité,282,Public Service Commission of Canada,Commission de la fonction publique du Canada,2019-03-31,
-1043,Search and Rescue Response,Recherche et sauvetage,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
-1044,Vessel Screening and Regulation of Vessel Traffic Movements,Contrôle des navires et réglementation des mouvements du trafic maritime,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
-1045,Waterways Management,Gestion des voies navigables,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,
+1043,Search and Rescue Response,Recherche et sauvetage,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,2026-09-21
+1044,Vessel Screening and Regulation of Vessel Traffic Movements,Contrôle des navires et réglementation des mouvements du trafic maritime,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,2026-09-21
+1045,Waterways Management,Gestion des voies navigables,125,Fisheries and Oceans Canada,Pêches et Océans Canada,2019-03-31,2026-09-21
 1046,Release of Statistical Data on International Trade,Diffusion de données statistiques sur le commerce international,313,Statistics Canada,Statistique Canada,2019-03-31,
 1047,Release of Statistical Data on Balance of Payment,Diffusion de données statistiques sur la balance de paiement,313,Statistics Canada,Statistique Canada,2019-03-31,
 1048,Ministerial Designations for Protective Services by the RCMP,Désignations ministérielles pour les Services de la protection par la GRC,135,Public Safety Canada,Sécurité publique Canada,2019-03-31,
